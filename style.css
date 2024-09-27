@@ -1,0 +1,56 @@
+
+
+.nav-bar{
+         color: blue;
+         background-color: white;
+         font-family: "robotto";
+         margin: 0;
+         padding: 0;
+         font-style: italic;
+}
+#moi{
+      margin: 20px;
+      padding: 5px;
+      width: 100px;
+      height: 100px;
+}
+.nav-bar{
+    li{
+        display: inline;
+    }
+    a{
+        color: blue;
+        text-decoration: none;
+        padding: 50px;
+        margin: 20px;
+    }
+}
+.section1{
+    .enfant1{
+        h1{
+            color:black;
+            text-align: center;
+        }
+        h2{
+           text-align: center;
+        }
+        p{
+            color: white;
+            text-align: center;
+        }
+    }
+.enfant2{
+    p{
+        color: white;
+        font-style: italic;
+        text-align: center;
+    }
+}
+}
+.form1{
+    color: black;
+    font-style: normal;
+    font-size: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
